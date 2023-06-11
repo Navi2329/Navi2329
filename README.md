@@ -6,7 +6,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/snavaneethak-vitc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="snavaneethak-vitc" height="30" width="40" /></a>
 <a href="https://www.instagram.com/navi_s2003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="navi_s2003" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/wildbeast1" target="blank"><img align="center" src="https://www.svgrepo.com/show/305880/codechef.svg" alt="wildbeast1" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/wildbeast1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="wildbeast1" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/knavaneetha365?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="godwildbeast" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/GODWILDBEAST" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="godwildbeast" height="30" width="40" /></a>
 <a href="https://leetcode.com/GODWILDBEAST/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="godwildbeast" height="30" width="40" /></a>
